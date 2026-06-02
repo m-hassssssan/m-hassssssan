@@ -4,22 +4,30 @@
 
 <br />
 
-<div align="center">
-  <h1>Hi there! I'm Hassan Tariq 👋</h1>
-  <p><strong>Frontend Engineer & UI Developer</strong></p>
-  
-  <p>
-    <a href="https://github.com/m-hassssssan">
-      <img src="https://img.shields.io/github/followers/m-hassssssan?label=Followers&style=social" alt="GitHub Followers" />
-    </a>
-  </p>
-</div>
+<table border="0">
+  <tr>
+    <td width="75%" valign="top">
+      <h1>Hi there! I'm Hassan Tariq 👋</h1>
+      <p><strong>Frontend Engineer & UI Developer</strong></p>
+      <p>
+        I am a passionate software engineer specializing in drafting modern, beautiful, and interactive web layouts. 
+        I build responsive frontend architectures with smooth animations, immersive 3D modules, and highly polished user experiences.
+      </p>
+      <p>
+        <a href="https://github.com/m-hassssssan">
+          <img src="https://img.shields.io/github/followers/m-hassssssan?label=Followers&style=social" alt="GitHub Followers" />
+        </a>
+      </p>
+    </td>
+    <td width="25%" align="right" valign="top">
+      <img src="./avatar.png" width="150" alt="Hassan Tariq Avatar" />
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### 💫 About Me
-
-I am a passionate **Frontend Developer and UI Engineer** focused on building immersive, high-impact, and interactive web experiences. I specialize in designing and engineering premium user interfaces with fluid animations, custom 3D integrations, and robust single-page web applications.
 
 - 🚀 Currently building premium, custom interactive web layouts.
 - ⚡ Strong advocate of clean code, responsive design, and fluid transitions.
