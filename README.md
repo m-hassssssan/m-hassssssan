@@ -8,7 +8,7 @@
   <tr>
     <td width="75%" valign="top">
       <h1>Hi there! I'm Hassan Tariq 👋</h1>
-      <p><strong>Frontend Engineer & UI Developer</strong></p>
+      <p><strong>Frontend Engineer & UI Developer | Crafting immersive web experiences with React, TypeScript, and interactive 3D/scroll animations.</strong></p>
       <p>
         I am a passionate software engineer specializing in drafting modern, beautiful, and interactive web layouts. 
         I build responsive frontend architectures with smooth animations, immersive 3D modules, and highly polished user experiences.
